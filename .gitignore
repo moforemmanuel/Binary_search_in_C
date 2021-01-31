@@ -1,0 +1,15 @@
+#log files
+*.log
+
+#Dev files
+*.Dev
+
+#Temp files
+*.temp
+
+#Objct files
+*.o
+
+#layout files
+*.layout
+
